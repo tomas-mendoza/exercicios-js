@@ -1,5 +1,5 @@
 function main(numero) {
-  return numero == 0 ? 'Zero' : numero > 0 ? 'Positivo' : 'Negativo' 
+  return numero == 0 ? 'zero' : numero > 0 ? 'positivo' : 'negativo';
  } 
  
  module.exports = main;
